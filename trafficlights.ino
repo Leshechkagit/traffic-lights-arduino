@@ -1,5 +1,6 @@
 //Made by Alexei Shrubok
 //Github https://github.com/Leshechkagit
+//project Github https://github.com/Leshechkagit/traffic-lights-arduino
 
 unsigned long currentMillis;
 unsigned long previousMillis; 
